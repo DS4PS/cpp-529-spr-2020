@@ -21,7 +21,7 @@ Unit Metadata is comprised of:
 @assignment - turn on lecture icon
 @lecture - turn on lecture icon
 @foldout - activate unit content (allow foldout)
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-master/lab-01-instructions/">LAB-01 Instructions</a>
+<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-spr-2020/lab-01-instructions/">LAB-01 Instructions</a>
 Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">Submit Lab</a>
 -->
 
@@ -90,9 +90,9 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 Urban policy scholars have long made the case for the primacy of place:
 
-*Ellen, I. G., & Turner, M. A. (1997). Does neighborhood matter? Assessing recent evidence. Housing Policy Debate, 8(4), 833-866.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/social-mobility/does-neighborhood-matter-assessing-recent-evidence.pdf) ]
+*Ellen, I. G., & Turner, M. A. (1997). Does neighborhood matter? Assessing recent evidence. Housing Policy Debate, 8(4), 833-866.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/social-mobility/does-neighborhood-matter-assessing-recent-evidence.pdf) ]
 
-Economists have more recently come to the conclusion that neighborhoods matter more than they expected. For example, see *Justin Wolfers: Why the New Research on Mobility Matters: An Economist's View; The New York Times, May 4, 2015.* [ [link](https://www.nytimes.com/2015/05/05/upshot/why-the-new-research-on-mobility-matters-an-economists-view.html) ] [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/social-mobility/why-the-new-research-on-mobility-matters-an-economists-view.pdf) ]
+Economists have more recently come to the conclusion that neighborhoods matter more than they expected. For example, see *Justin Wolfers: Why the New Research on Mobility Matters: An Economist's View; The New York Times, May 4, 2015.* [ [link](https://www.nytimes.com/2015/05/05/upshot/why-the-new-research-on-mobility-matters-an-economists-view.html) ] [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/social-mobility/why-the-new-research-on-mobility-matters-an-economists-view.pdf) ]
 
 There is growing evidence that neighborhoods can be used as a *treatment* to aid in social mobility, i.e. that programs which help low-income families move to stable and thriving neighborhoods have significant long-term impact on the mobility of the kids. See the Moving to Opportunity Study { [Part 1](https://opportunityinsights.org/paper/newmto/) } and { [Part 2](https://www.citylab.com/equity/2019/08/affordable-housing-assistance-voucher-seattle-neighborhoods/595423/) }.
 
@@ -106,7 +106,7 @@ The Geography of Well-Being, CITYLAB, Richard Florida, APR 23, 2015 [ [link](htt
 
 Neighborhoods don't start out bad. They typically begin as vibrant middle-class developments that pass through various life-cycles over time. Why do some neighborhoods remain stable and thriving, and others experience drastic decline and stagnation? Theories of neighborhod change have been developed to answer that question. 
 
-*Pitkin, B. (2001). Theories of neighborhood change: Implications for community development policy and practice. UCLA Advanced Policy Institute, 28.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/neighborhood-change-theories/theories-of-neighborhood-change.pdf) ]
+*Pitkin, B. (2001). Theories of neighborhood change: Implications for community development policy and practice. UCLA Advanced Policy Institute, 28.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/neighborhood-change-theories/theories-of-neighborhood-change.pdf) ]
 
 ## Data-Driven Approaches to Studying Neighborhoods 
 
@@ -114,13 +114,13 @@ Data can help us better understand the impact that neighborhoods have on residen
 
 We will specifically draw upon approaches described in:
 
-*Firschein, J. (2015). Putting data to work: data-driven approaches to strengthening neighborhoods. IFC Bulletins chapters, 38.* _**Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets, pp 41-60.**_ [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/data-driven-models/MVA-DD-App-to-Strengthening-Neighborhoods.pdf) ]
+*Firschein, J. (2015). Putting data to work: data-driven approaches to strengthening neighborhoods. IFC Bulletins chapters, 38.* _**Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets, pp 41-60.**_ [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/data-driven-models/MVA-DD-App-to-Strengthening-Neighborhoods.pdf) ]
 
 Some data-driven models that help [predict which neighborhoods are most likely to change over time](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/). 
 
 And recent academic work that uses census data and machine learning to identify patterns in community development: 
 
-*Delmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), 2402-2424.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/data-driven-models/differentiating_pathways_to_neighborhood_change.pdf) ]
+*Delmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), 2402-2424.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/data-driven-models/differentiating_pathways_to_neighborhood_change.pdf) ]
 
 All three articles share a common approach of using census data and clustering techniques to classify neighborhoods by type, then examine how each type is likely to change over time. 
 
@@ -179,23 +179,23 @@ Once you have completed this section you will be able to:
 
 REQUIRED:
 
-Schäffer, U. (2007). Management accounting & control scales handbook. Springer Science & Business Media. [ [2-page PDF](https://github.com/DS4PS/cpp-529-master/raw/master/articles/measurement/introduction-to-construct-measurement.pdf) ] 
+Schäffer, U. (2007). Management accounting & control scales handbook. Springer Science & Business Media. [ [2-page PDF](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/measurement/introduction-to-construct-measurement.pdf) ] 
 
-*Pitkin, B. (2001). Theories of neighborhood change: Implications for community development policy and practice. UCLA Advanced Policy Institute, 28.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/neighborhood-change-theories/theories-of-neighborhood-change.pdf) ]
+*Pitkin, B. (2001). Theories of neighborhood change: Implications for community development policy and practice. UCLA Advanced Policy Institute, 28.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/neighborhood-change-theories/theories-of-neighborhood-change.pdf) ]
 
 FOR REFERENCE:
 
 **Impact of Neighborhoods on Families**
 
-*Ellen, I. G., & Turner, M. A. (1997). Does neighborhood matter? Assessing recent evidence. Housing Policy Debate, 8(4), 833-866.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/social-mobility/does-neighborhood-matter-assessing-recent-evidence.pdf) ]
+*Ellen, I. G., & Turner, M. A. (1997). Does neighborhood matter? Assessing recent evidence. Housing Policy Debate, 8(4), 833-866.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/social-mobility/does-neighborhood-matter-assessing-recent-evidence.pdf) ]
 
 **Measurement Theory**
 
-*Measurement Theory and Practice, from: Smith, F. (2002). Research methods in pharmacy practice. Pharmaceutical Press.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/measurement/measurement-theory-and-practice.pdf) ]
+*Measurement Theory and Practice, from: Smith, F. (2002). Research methods in pharmacy practice. Pharmaceutical Press.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/measurement/measurement-theory-and-practice.pdf) ]
 
-*Schäffer, U. (2007). Management accounting & control scales handbook. Springer Science & Business Media.* [ [full text](https://github.com/DS4PS/cpp-529-master/raw/master/articles/measurement/Management-Accounting-and-Control-Scales-Handbook.pdf) ]
+*Schäffer, U. (2007). Management accounting & control scales handbook. Springer Science & Business Media.* [ [full text](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/measurement/Management-Accounting-and-Control-Scales-Handbook.pdf) ]
 
-*MacKenzie, S. B., Podsakoff, P. M., & Podsakoff, N. P. (2011). Construct measurement and validation procedures in MIS and behavioral research: Integrating new and existing techniques. MIS quarterly, 35(2), 293-334.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/measurement/construct-measurement-and-validation-in-behavioral-research.pdf) ]
+*MacKenzie, S. B., Podsakoff, P. M., & Podsakoff, N. P. (2011). Construct measurement and validation procedures in MIS and behavioral research: Integrating new and existing techniques. MIS quarterly, 35(2), 293-334.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/measurement/construct-measurement-and-validation-in-behavioral-research.pdf) ]
 
 <br>
 <br>
@@ -217,7 +217,7 @@ FOR REFERENCE:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ra5rMqr00Ew?start=192" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[LECTURE Notes - Measurement](https://github.com/DS4PS/cpp-529-master/raw/master/lectures/p-01-measurement.pdf) 
+[LECTURE Notes - Measurement](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/lectures/p-01-measurement.pdf) 
 
 On your lab you will be practicing with index development using census data and the following app:
 
@@ -241,7 +241,7 @@ On your lab you will be practicing with index development using census data and 
 
 ## Lab-01 - Measurement
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-master/lab-01-instructions/">LAB-01 Instructions</a>
+<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-spr-2020/lab-01-instructions/">LAB-01 Instructions</a>
 
 ## Submit Solutions to Canvas:
 
@@ -295,7 +295,7 @@ In general, data scientists using R often run into two problems related to this 
 
 This unit will teach students how to resolve both problems, as well as learn mapping tools to effectively transform raw census data into visually appealing choropleth (i.e. color-coded) maps.   This unit includes 4 videos: (1) introduction to Census and Census data; (2) Introduction to Mapping; (3) Mapping Census Data in R; and (4) Mapping Census Data in R with TidyCensus. 
 
-The lecture notes accompanying the videos can be found at the following links: [HTML](https://ds4ps.org/cpp-529-master/lectures/MappingIntro.html#/)
+The lecture notes accompanying the videos can be found at the following links: [HTML](https://ds4ps.org/cpp-529-spr-2020/lectures/MappingIntro.html#/)
   
 
 ## Assigned Reading
@@ -362,7 +362,7 @@ The data collected by the decennial census are used to determine the number of s
 Please download the Rmarkdown file (.RMD) below.  In steps 1-4, you can input your R code chunk in the areas that say ``#edit me``.  In Questions 1-3, you can simply answer the questions (i.e. you do not need to show or include any additional code needed to answer the questions).  
 
 
-Access Lab 2 here: [RMD](https://ds4ps.org/cpp-529-master/labs/Lab2.Rmd) 
+Access Lab 2 here: [RMD](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2.Rmd) 
 
 
 Please submit both the .RMD file and .Html file.
@@ -378,7 +378,7 @@ Please submit both the .RMD file and .Html file.
 
 *** { @unit = "", @title = "Lab 02 Solutions", @assignment, @foldout  }
 
-Solutions to Lab 2 can be found here [(HTML)](https://ds4ps.org/cpp-529-master/labs/Lab2Solutions.html) [(RMD)](https://ds4ps.org/cpp-529-master/labs/Lab2Solutions.Rmd). 
+Solutions to Lab 2 can be found here [(HTML)](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2Solutions.html) [(RMD)](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2Solutions.Rmd). 
 
 <br>
 
@@ -413,16 +413,16 @@ In this unit, we will be learning how to implement cluster analysis in R as a da
 
 Required: 
 
-*Temkin, K., & Rohe, W. (1996). Neighborhood change and urban policy. Journal of planning education and research, 15(3), 159-170.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/neighborhood-change-theories/neighborhood-change-and-urban-policy.pdf) ]
+*Temkin, K., & Rohe, W. (1996). Neighborhood change and urban policy. Journal of planning education and research, 15(3), 159-170.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/neighborhood-change-theories/neighborhood-change-and-urban-policy.pdf) ]
 
-*Grigsby, W., Baratz, M., Galster, G., & Maclennan, D. (1987). The dynamic of neighborhood change and decline. Progress in Planning, 28, 1.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/neighborhood-change-theories/Grigsby-et-al-1983-Dynamics-of-Neighbourhood-Change-and-Decline.pdf) ]
+*Grigsby, W., Baratz, M., Galster, G., & Maclennan, D. (1987). The dynamic of neighborhood change and decline. Progress in Planning, 28, 1.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/neighborhood-change-theories/Grigsby-et-al-1983-Dynamics-of-Neighbourhood-Change-and-Decline.pdf) ]
 
-*Schwirian, K. P. (1983). Models of neighborhood change. Annual review of Sociology, 9(1), 83-102.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/neighborhood-change-theories/models-of-neighborhood-change.pdf) ]
+*Schwirian, K. P. (1983). Models of neighborhood change. Annual review of Sociology, 9(1), 83-102.* [ [pdf](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/articles/neighborhood-change-theories/models-of-neighborhood-change.pdf) ]
 
 
 *** { @unit = "", @title = "Cluster Analysis: Overview", @lecture, @foldout  }
 
-The first video below introduces cluster analysis and a simple partitioning algorithm used to segment data into specific partitions or groups.  The second video below introduces other popular clustering methods -- Hierarchical and model-based clustering.  Model-based clustering is the method we will use in R with the MClust package. The lecture notes can be found [here (PPT)](https://github.com/DS4PS/cpp-529-master/raw/master/lectures/ClusBasic.ppt).
+The first video below introduces cluster analysis and a simple partitioning algorithm used to segment data into specific partitions or groups.  The second video below introduces other popular clustering methods -- Hierarchical and model-based clustering.  Model-based clustering is the method we will use in R with the MClust package. The lecture notes can be found [here (PPT)](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/lectures/ClusBasic.ppt).
 
 
 
@@ -446,13 +446,13 @@ The purpose of Lab 3 is to show you how to apply model-based clustering to class
 
 ## Lab Instructions
 
-You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.rmd)) and execute each code chunk step-by-step to understand each stage of the process.  
+You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial.rmd)) and execute each code chunk step-by-step to understand each stage of the process.  
 
 
 ***Reminder:*** Name your files according to the convention: Lab-##-LastName.xxx
 
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.html">LAB-03 Instructions</a>
+<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial.html">LAB-03 Instructions</a>
 
 
 After you have completed Lab 3 you can submit it via Canvas using the link below.  Upload your RMD and your HTML files to the appropriate lab submission link. 
@@ -486,11 +486,11 @@ Nice job! You have successfully completed lab assignment 3 that relies on a host
 <br>
 Image 1:
 
-![](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-13-1.png)
+![](https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-13-1.png)
 
 <br> 
 Image 2:
-![](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-22-1.png)
+![](https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-22-1.png)
 
 <br>
 
@@ -595,7 +595,7 @@ You may access Lab 4 instructions by clicking on the LAB-04 Instructions below.
 
 ## Lab Instructions
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-master/labs/lab-04-instructions.html">LAB-04 Instructions</a>
+<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-spr-2020/labs/lab-04-instructions.html">LAB-04 Instructions</a>
 
 ## Submit Solutions to Canvas:
 
@@ -633,7 +633,7 @@ In this unit, a brief video introduction is given related to neighborhood change
 
 *** { @unit = "", @title = "Neighborhood Change and Gentficication", @lecture, @foldout  }
 
-The first video below provides a general overview of neighborhood change and gentrification, including: defintions, debates,  policies, and a case study example.  The lecture notes can be found [here (PDF)](https://github.com/DS4PS/cpp-529-master/raw/master/lectures/Gentrification_and_affordable_housing_2016.pdf).
+The first video below provides a general overview of neighborhood change and gentrification, including: defintions, debates,  policies, and a case study example.  The lecture notes can be found [here (PDF)](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/lectures/Gentrification_and_affordable_housing_2016.pdf).
 
 
 
@@ -645,7 +645,7 @@ The first video below provides a general overview of neighborhood change and gen
 
 *** { @unit = "", @title = "Visualization Recap", @lecture, @foldout  }
 
-The video below describes the importance of creating maps that accurately conveys spatial information contained in the underlying data.  Far too often, maps are used incorrectly to advocate a certain narrative that does not accurately reflect underlying data.  As data scientists, it is important that we are careful of how we map spatial information.  The lecture notes can be found [here (PDF)](https://github.com/DS4PS/cpp-529-master/raw/master/lectures/Lecture-Visual_Narrative- Choropleth_and_Dot_Density_Maps.pdf).
+The video below describes the importance of creating maps that accurately conveys spatial information contained in the underlying data.  Far too often, maps are used incorrectly to advocate a certain narrative that does not accurately reflect underlying data.  As data scientists, it is important that we are careful of how we map spatial information.  The lecture notes can be found [here (PDF)](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/lectures/Lecture-Visual_Narrative- Choropleth_and_Dot_Density_Maps.pdf).
 
 
 
@@ -666,11 +666,11 @@ The video below describes the importance of creating maps that accurately convey
 There are 3 parts to this week's lab.  The first two parts are largely a review and a primer of what we've done already and where we are heading.  The Rmarkdown file and HTML file is below.  
 
 
-Access Parts 1 and 2 of Lab 5 here: [RMD](https://github.com/DS4PS/cpp-529-master/raw/master/LABS/Lab5a-MapVis1.Rmd); [HTML](https://github.com/DS4PS/cpp-529-master/raw/master/LABS/Lab5a-MapVis1.html)
+Access Parts 1 and 2 of Lab 5 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5a-MapVis1.Rmd); [HTML](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5a-MapVis1.html)
 
 After you go through Parts 1 and 2, please download part 3 of the lab, which focuses on using dot density maps to display changes in demographics, in this case with respect to education levels.  There are several questions for you to consider at the bottom of the file that pertain to all parts of the lab.   The Rmarkdown file and HTML file is below.  
 
-Access Part 3 Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-master/raw/master/LABS/Lab5b-MapVis2.Rmd); [HTML](https://github.com/DS4PS/cpp-529-master/raw/master/LABS/Lab5b-MapVis2.html) 
+Access Part 3 Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5b-MapVis2.Rmd); [HTML](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5b-MapVis2.html) 
 
 
 Please submit your .rmd and .html files for Part 3 of the lab only, including your answers to the questions.  
@@ -739,7 +739,7 @@ The second theme of this unit is to continue working with cluster analysis to cl
 
 *** { @unit = "", @title = "Regression Overview", @lecture, @foldout  }
 
-This set of videos provide a general overview of Ordinary Least Squares (OLS) model regression.  The lecture notes can be found [here (HTML)](https://ds4ps.org/cpp-529-master/lectures/OLS.html).
+This set of videos provide a general overview of Ordinary Least Squares (OLS) model regression.  The lecture notes can be found [here (HTML)](https://ds4ps.org/cpp-529-spr-2020/lectures/OLS.html).
 
 <br>
 
@@ -788,7 +788,7 @@ In the second part, you will perform cluster analysis, as in previous labs, but 
 
 What's new in this part 2 of the lab is that you will then combine the cluster model output performed for counties during the 2013-2017 period, and `predict` what cluster groups those counties would have been in during the 2008-2012 time period. Next, you will track transitions of counties from one cluster group to another over the 2008-2012 and 2013-2017 time period, and see how those changes relate to house prices.  From here you will attempt to detect which cluster groups gentrified over the time period.   
 
-Access the lab here: [RMD](https://github.com/DS4PS/cpp-529-master/raw/master/LABS/Lab6-RegClustPred.Rmd); [HTML](https://www.dropbox.com/s/ao6dpep5n559sm5/Lab6-RegClustPred.html?dl=1) 
+Access the lab here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab6-RegClustPred.Rmd); [HTML](https://www.dropbox.com/s/ao6dpep5n559sm5/Lab6-RegClustPred.html?dl=1) 
 
 
 Please submit your .rmd and .html files on Canvas, including your answers to the questions.  
@@ -855,7 +855,7 @@ Please submit your .rmd and .html files on Canvas, including your answers to the
 
 ## Code-Through
  
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-master/LABS/code-through-assignment.html">Code-Through Instructions</a>
+<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-spr-2020/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
 ## Submit to Canvas:
 
