@@ -10,8 +10,8 @@ description:        Community modeling course.
 
 # Site subpath, e.g. /blog
 url :               "https://ds4ps.github.io"
-baseurl:            "/cpp-529-master"
-course_url:         "http://ds4ps.org/cpp-529-master/"
+baseurl:            "/cpp-529-spr-2020"
+course_url:         "http://ds4ps.org/cpp-529-spr-2020/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -39,7 +39,7 @@ header:
 - title: Resources
   url: resources/
 - title: Yellowdig
-  url: https://canvas.asu.edu/courses/37703/assignments/842344
+#  url: https://canvas.asu.edu/courses/37703/assignments/842344
 # - title: Canvas
 #  url: https://canvas.asu.edu/courses/29528
 - title: Office Hours
@@ -57,8 +57,8 @@ author:
 github_info:
     username:          DS4PS # Github location of the course
     branch:            master
-    website-repo:      cpp-529-master
-    course-repo:       cpp-529-master
+    website-repo:      cpp-529-spr-2020
+    course-repo:       cpp-529-spr-2020
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
