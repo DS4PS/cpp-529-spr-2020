@@ -362,7 +362,7 @@ The data collected by the decennial census are used to determine the number of s
 Please download the Rmarkdown file (.RMD) below.  In steps 1-4, you can input your R code chunk in the areas that say ``#edit me``.  In Questions 1-3, you can simply answer the questions (i.e. you do not need to show or include any additional code needed to answer the questions).  
 
 
-Access Lab 2 here: [RMD](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2.Rmd) 
+Access Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/labs/Lab2.Rmd) 
 
 
 Please submit both the .RMD file and .Html file.
@@ -666,11 +666,11 @@ The video below describes the importance of creating maps that accurately convey
 There are 3 parts to this week's lab.  The first two parts are largely a review and a primer of what we've done already and where we are heading.  The Rmarkdown file and HTML file is below.  
 
 
-Access Parts 1 and 2 of Lab 5 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5a-MapVis1.Rmd); [HTML](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5a-MapVis1.html)
+Access Parts 1 and 2 of Lab 5 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5a-MapVis1.Rmd); [HTML](https://ds4ps.org/cpp-529-spr-2020/LABS/Lab5a-MapVis1.html)
 
 After you go through Parts 1 and 2, please download part 3 of the lab, which focuses on using dot density maps to display changes in demographics, in this case with respect to education levels.  There are several questions for you to consider at the bottom of the file that pertain to all parts of the lab.   The Rmarkdown file and HTML file is below.  
 
-Access Part 3 Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5b-MapVis2.Rmd); [HTML](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5b-MapVis2.html) 
+Access Part 3 Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5b-MapVis2.Rmd); [HTML](https://ds4ps.org/cpp-529-spr-2020/LABS/Lab5b-MapVis2.html) 
 
 
 Please submit your .rmd and .html files for Part 3 of the lab only, including your answers to the questions.  
