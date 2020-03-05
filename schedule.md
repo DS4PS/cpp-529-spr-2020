@@ -378,7 +378,7 @@ Please submit both the .RMD file and .Html file.
 
 *** { @unit = "", @title = "Lab 02 Solutions", @assignment, @foldout  }
 
-Solutions to Lab 2 can be found here [(HTML)](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2Solutions.html) [(RMD)](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab2Solutions.Rmd?dl=1). 
+Solutions to Lab 2 can be found here [(HTML)](https://ds4ps.org/cpp-529-master/labs/Lab2Solutions.html) [(RMD)](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab2Solutions.Rmd?dl=1). 
 
 <br>
 
@@ -446,7 +446,7 @@ The purpose of Lab 3 is to show you how to apply model-based clustering to class
 
 ## Lab Instructions
 
-You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions ([HERE][https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial.html]) and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/lab-03-tutorial.rmd?dl=1)) and execute each code chunk step-by-step to understand each stage of the process.  
+You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions ([HERE][https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.html]) and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/lab-03-tutorial.rmd?dl=1)) and execute each code chunk step-by-step to understand each stage of the process.  
 
 
 ***Reminder:*** Name your files according to the convention: Lab-##-LastName.xxx
@@ -484,11 +484,11 @@ Nice job! You have successfully completed lab assignment 3 that relies on a host
 <br>
 Image 1:
 
-![](https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-13-1.png)
+![](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-13-1.png)
 
 <br> 
 Image 2:
-![](https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-22-1.png)
+![](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial_files/figure-html/unnamed-chunk-22-1.png)
 
 <br>
 
@@ -593,7 +593,7 @@ You may access Lab 4 instructions by clicking on the LAB-04 Instructions below.
 
 ## Lab Instructions
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-spr-2020/labs/lab-04-instructions.html">LAB-04 Instructions</a>
+<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-master/labs/lab-04-instructions.html">LAB-04 Instructions</a>
 
 ## Submit Solutions to Canvas:
 
@@ -786,7 +786,7 @@ In the second part, you will perform cluster analysis, as in previous labs, but 
 
 What's new in this part 2 of the lab is that you will then combine the cluster model output performed for counties during the 2013-2017 period, and `predict` what cluster groups those counties would have been in during the 2008-2012 time period. Next, you will track transitions of counties from one cluster group to another over the 2008-2012 and 2013-2017 time period, and see how those changes relate to house prices.  From here you will attempt to detect which cluster groups gentrified over the time period.   
 
-Access the lab here: [RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab6-RegClustPred.Rmd?dl=1); [HTML](https://www.dropbox.com/s/ao6dpep5n559sm5/Lab6-RegClustPred.html?dl=1) 
+Access the lab here: [RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab6-RegClustPred.Rmd?dl=1); [HTML](https://www.dropbox.com/s/ao6dpep5n559sm5/Lab6-RegClustPred.html?dl=0) 
 
 
 Please submit your .rmd and .html files on Canvas, including your answers to the questions.  
