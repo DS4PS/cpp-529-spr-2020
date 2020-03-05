@@ -362,7 +362,7 @@ The data collected by the decennial census are used to determine the number of s
 Please download the Rmarkdown file (.RMD) below.  In steps 1-4, you can input your R code chunk in the areas that say ``#edit me``.  In Questions 1-3, you can simply answer the questions (i.e. you do not need to show or include any additional code needed to answer the questions).  
 
 
-Access Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab2.Rmd) 
+Access Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/blob/master/LABS/Lab2.Rmd) 
 
 
 Please submit both the .RMD file and .Html file.
