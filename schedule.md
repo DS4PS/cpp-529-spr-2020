@@ -362,7 +362,7 @@ The data collected by the decennial census are used to determine the number of s
 Please download the Rmarkdown file (.RMD) below.  In steps 1-4, you can input your R code chunk in the areas that say ``#edit me``.  In Questions 1-3, you can simply answer the questions (i.e. you do not need to show or include any additional code needed to answer the questions).  
 
 
-Access Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/blob/master/LABS/Lab2.Rmd) 
+Access Lab 2 here: [RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab2.Rmd?dl=1) 
 
 
 Please submit both the .RMD file and .Html file.
@@ -378,7 +378,7 @@ Please submit both the .RMD file and .Html file.
 
 *** { @unit = "", @title = "Lab 02 Solutions", @assignment, @foldout  }
 
-Solutions to Lab 2 can be found here [(HTML)](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2Solutions.html) [(RMD)](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2Solutions.Rmd). 
+Solutions to Lab 2 can be found here [(HTML)](https://ds4ps.org/cpp-529-spr-2020/labs/Lab2Solutions.html) [(RMD)](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab2Solutions.Rmd?dl=1). 
 
 <br>
 
@@ -446,7 +446,7 @@ The purpose of Lab 3 is to show you how to apply model-based clustering to class
 
 ## Lab Instructions
 
-You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/labs/lab-03-tutorial.rmd)) and execute each code chunk step-by-step to understand each stage of the process.  
+You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/lab-03-tutorial.rmd?dl=1)) and execute each code chunk step-by-step to understand each stage of the process.  
 
 
 ***Reminder:*** Name your files according to the convention: Lab-##-LastName.xxx
@@ -666,11 +666,11 @@ The video below describes the importance of creating maps that accurately convey
 There are 3 parts to this week's lab.  The first two parts are largely a review and a primer of what we've done already and where we are heading.  The Rmarkdown file and HTML file is below.  
 
 
-Access Parts 1 and 2 of Lab 5 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5a-MapVis1.Rmd); [HTML](https://ds4ps.org/cpp-529-spr-2020/LABS/Lab5a-MapVis1.html)
+Access Parts 1 and 2 of Lab 5 here: [RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab5a-MapVis1.Rmd?dl=1); [HTML](https://ds4ps.org/cpp-529-spr-2020/LABS/Lab5a-MapVis1.html)
 
 After you go through Parts 1 and 2, please download part 3 of the lab, which focuses on using dot density maps to display changes in demographics, in this case with respect to education levels.  There are several questions for you to consider at the bottom of the file that pertain to all parts of the lab.   The Rmarkdown file and HTML file is below.  
 
-Access Part 3 Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab5b-MapVis2.Rmd); [HTML](https://ds4ps.org/cpp-529-spr-2020/LABS/Lab5b-MapVis2.html) 
+Access Part 3 Lab 2 here: [RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab5b-MapVis2.Rmd?dl=1); [HTML](https://ds4ps.org/cpp-529-spr-2020/LABS/Lab5b-MapVis2.html) 
 
 
 Please submit your .rmd and .html files for Part 3 of the lab only, including your answers to the questions.  
@@ -788,7 +788,7 @@ In the second part, you will perform cluster analysis, as in previous labs, but 
 
 What's new in this part 2 of the lab is that you will then combine the cluster model output performed for counties during the 2013-2017 period, and `predict` what cluster groups those counties would have been in during the 2008-2012 time period. Next, you will track transitions of counties from one cluster group to another over the 2008-2012 and 2013-2017 time period, and see how those changes relate to house prices.  From here you will attempt to detect which cluster groups gentrified over the time period.   
 
-Access the lab here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab6-RegClustPred.Rmd); [HTML](https://www.dropbox.com/s/ao6dpep5n559sm5/Lab6-RegClustPred.html?dl=1) 
+Access the lab here: [RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/Lab6-RegClustPred.Rmd?dl=1); [HTML](https://www.dropbox.com/s/ao6dpep5n559sm5/Lab6-RegClustPred.html?dl=1) 
 
 
 Please submit your .rmd and .html files on Canvas, including your answers to the questions.  
