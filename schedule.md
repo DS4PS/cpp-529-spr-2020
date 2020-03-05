@@ -446,13 +446,11 @@ The purpose of Lab 3 is to show you how to apply model-based clustering to class
 
 ## Lab Instructions
 
-You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/lab-03-tutorial.rmd?dl=1)) and execute each code chunk step-by-step to understand each stage of the process.  
+You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions ([HERE][https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial.html]) and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://www.dropbox.com/s/wd2jycykrq6kamn/lab-03-tutorial.rmd?dl=1)) and execute each code chunk step-by-step to understand each stage of the process.  
 
 
 ***Reminder:*** Name your files according to the convention: Lab-##-LastName.xxx
 
-
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial.html">LAB-03 Instructions</a>
 
 
 After you have completed Lab 3 you can submit it via Canvas using the link below.  Upload your RMD and your HTML files to the appropriate lab submission link. 
