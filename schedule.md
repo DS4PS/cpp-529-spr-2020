@@ -362,7 +362,7 @@ The data collected by the decennial census are used to determine the number of s
 Please download the Rmarkdown file (.RMD) below.  In steps 1-4, you can input your R code chunk in the areas that say ``#edit me``.  In Questions 1-3, you can simply answer the questions (i.e. you do not need to show or include any additional code needed to answer the questions).  
 
 
-Access Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/labs/Lab2.Rmd) 
+Access Lab 2 here: [RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/LABS/Lab2.Rmd) 
 
 
 Please submit both the .RMD file and .Html file.
@@ -446,7 +446,7 @@ The purpose of Lab 3 is to show you how to apply model-based clustering to class
 
 ## Lab Instructions
 
-You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://ds4ps.org/cpp-529-spr-2020/labs/lab-03-tutorial.rmd)) and execute each code chunk step-by-step to understand each stage of the process.  
+You may access Lab 3 instructions by clicking on the LAB-03 Instructions below.   First view the instructions and see some of the code chunks and output that you will create yourself.  Next, download the Rmardown file ([RMD](https://github.com/DS4PS/cpp-529-spr-2020/raw/master/labs/lab-03-tutorial.rmd)) and execute each code chunk step-by-step to understand each stage of the process.  
 
 
 ***Reminder:*** Name your files according to the convention: Lab-##-LastName.xxx
