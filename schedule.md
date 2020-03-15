@@ -230,7 +230,7 @@ On your lab you will be practicing with index development using census data and 
 
 
 
-*** { @unit = "Due Oct 23nd", @title = "Lab 01", @assignment, @foldout  }
+*** { @title = "Lab 01", @assignment, @foldout  }
 
 <br>
 <br>
