@@ -230,7 +230,7 @@ On your lab you will be practicing with index development using census data and 
 
 
 
-*** { @title = "Lab 01", @assignment, @foldout  }
+*** {@unit = "", @title = "Lab 01", @assignment, @foldout  }
 
 <br>
 <br>
@@ -328,7 +328,7 @@ Florida, R. (2018). Where the House-Price-to-Income Ratio Is Most Out of Whack. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qScoFj5ifTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-*** { @unit = "Due Oct 30th", @title = "Discussion Assignment: How local governments ensure an accurate census", @assignment, @foldout  }
+*** { @unit = "", @title = "Discussion Assignment: How local governments ensure an accurate census", @assignment, @foldout  }
 
 <br>
 <br>
@@ -348,7 +348,7 @@ The data collected by the decennial census are used to determine the number of s
 
 
 
-*** { @unit = "Due Oct 30th", @title = "Lab 02", @assignment, @foldout  }
+*** { @unit = "", @title = "Lab 02", @assignment, @foldout  }
 
 <br>
 <br>
@@ -434,7 +434,7 @@ The first video below introduces cluster analysis and a simple partitioning algo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-_oPRGATOBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-*** { @unit = "Due Nov 6th", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -464,7 +464,7 @@ After you have completed Lab 3 you can submit it via Canvas using the link below
 <br>
 
 
-*** { @unit = "Due Nov 6th", @title = "Yellowdig Discussion Assignment: Labeling Phoenix Neighborhood Groups", @assignment, @foldout  }
+*** { @unit = "", @title = "Yellowdig Discussion Assignment: Labeling Phoenix Neighborhood Groups", @assignment, @foldout  }
 
 <br>
 <br>
@@ -541,7 +541,7 @@ A data-driven approach to understanding neighborhood change requires use to (1) 
 <br>
 <br>
 
-*** { @unit = "Due Nov 6th", @title = "Reading Assignment", @assignment, @foldout  }
+*** { @unit = "", @title = "Reading Assignment", @assignment, @foldout  }
 
 <br>
 <br>
@@ -574,7 +574,7 @@ I discuss Chetty's work in the video lecture below.
 <br>
 
 
-*** { @unit = "Due Nov 13th", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "", @title = "Lab 04", @assignment, @foldout  }
 
 <br>
 <br>
@@ -654,7 +654,7 @@ The video below describes the importance of creating maps that accurately convey
 
 <br>
 
-*** { @unit = "Due Nov 20th", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -682,7 +682,7 @@ Please submit your .rmd and .html files for Part 3 of the lab only, including yo
 <br>
 
 
-*** { @unit = "Due Nov 20th", @title = "Yellowdig Discussion Assignment: Predicting Neighborhood Change", @assignment, @foldout  }
+*** { @unit = "", @title = "Yellowdig Discussion Assignment: Predicting Neighborhood Change", @assignment, @foldout  }
 
 <br>
 <br>
@@ -769,7 +769,7 @@ This set of videos provide a general overview of Ordinary Least Squares (OLS) mo
 
 
 
-*** { @unit = "Due Nov 27th", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -800,7 +800,7 @@ Please submit your .rmd and .html files on Canvas, including your answers to the
 
 
 
-*** { @unit = "Due Nov 27th", @title = "Yellowdig Discussion Assignment: Predicting Neighborhood Change", @assignment, @foldout  }
+*** { @unit = "", @title = "Yellowdig Discussion Assignment: Predicting Neighborhood Change", @assignment, @foldout  }
 
 <br>
 <br>
@@ -846,7 +846,7 @@ Please submit your .rmd and .html files on Canvas, including your answers to the
 
 ** Week 7 - Final Project 
 
-*** { @unit = "Due Dec 2nd", @title = "Explainer Assignment", @assignment, @foldout  }
+*** { @unit = "", @title = "Explainer Assignment", @assignment, @foldout  }
 
 <br>
 <br>
@@ -869,7 +869,7 @@ Publish your code-through as an RPub or shiny app. Share you link on YellowDig.
 
 
 
-*** { @unit = "Due Dec 6th", @title = "DASHBOARD", @assignment, @foldout }
+*** { @unit = "", @title = "DASHBOARD", @assignment, @foldout }
 
 <br>
 <br>
