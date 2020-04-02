@@ -328,7 +328,7 @@ Florida, R. (2018). Where the House-Price-to-Income Ratio Is Most Out of Whack. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qScoFj5ifTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-*** { @unit = "", @title = "Discussion Assignment: How local governments ensure an accurate census", @assignment, @foldout  }
+*** { @unit = "", @title = "Yellowdig Discussion Assignment: How local governments ensure an accurate census", @assignment, @foldout  }
 
 <br>
 <br>
