@@ -601,6 +601,16 @@ You may access Lab 4 instructions by clicking on the LAB-04 Instructions below.
 
 <br>
 
+
+*** { @unit = "", @title = "Lab 04 Solutions", @assignment, @foldout  }
+
+Solutions to Lab 4 can be found here [(Lab 4 Solutions)](https://www.dropbox.com/s/lblrpwrigea8ljh/lab-04-solutions.rmd?dl=1).  Lab 4 provides the main coding solutions needed to run the cluster analysis using 30 variables (as shown in the Lab 4 instructions) and to repeat the cluster analysis using only 3 variables.  Dot plots are created for both clustering output, along with their corresponding cluster maps.  The solutions therefore allow you to both label clusters based on covariates (red dot plots) as well as visualize cluster mappings (tmap). 
+
+
+<br>
+<br>
+
+
 --------------------------------------------------------------------------------------------------- 
 <br>
 
