@@ -691,6 +691,15 @@ Please submit your .rmd and .html files for Part 3 of the lab only, including yo
 <br>
 <br>
 
+*** { @unit = "", @title = "Lab 05 Solutions", @assignment, @foldout  }
+
+Solutions to Lab 5 can be found here [(Lab 5 Solutions)](https://www.dropbox.com/s/kudsvr4sjy1il3t/Lab5Solutions-MapVisualizationSolutions.html?dl=1).  
+
+
+<br>
+<br>
+
+
 
 *** { @unit = "", @title = "Yellowdig Discussion Assignment: Predicting Neighborhood Change", @assignment, @foldout  }
 
