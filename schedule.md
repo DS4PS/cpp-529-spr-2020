@@ -899,9 +899,9 @@ To this end, you will combine aspects into your final project from Lab 4 that fo
 
 The goal of your dynamic dashboard is to empower members of the City Council to better understand economic and demographic trends impacting the communities they govern.  
 
-As part of the final project, you will also record a video presentation of 15-20 minutes and give an oral presentation of your dynamic dashboard.  Be sure to highlight your findings, and policy implications and recommendations.  You may record the video presentation on your computer and then upload it to [youtube](https://www.youtube.com/upload). 
+***Bonus Points*** You have the option to also record a video presentation of 15-20 minutes and give an oral presentation of your dynamic dashboard.  
 
-Submission: You will submit the .rmd file, the .html file, and the link to your youtube video to Canvas. 
+Submission: You will submit the .rmd file and the .html file, and optionally, the link to your youtube video to Canvas. 
 
 
 
@@ -918,7 +918,8 @@ In addition to the two coding task you must also describe your research project 
 
 You will need to delete each instance of `r lorem::ipsum(paragraphs = 1)` placeholder text in the .rmd file and provide your own answers based on the instructions contained within notes (<!---  -->).  There are ***11*** instances of latin placeholder text that you need to remove and provide answers.   
 
-Once you have completed the final project, you should record a well-rehearsed presentation of 15-20 minutes targeting local government and community leaders. You may post the video on [youtube](https://www.youtube.com/upload).  When uploading to youtube, you can select the unlisted option to keep the video from being found via search, rather it can only be viewed if you have the link.
+
+***Bonus Points*** Once you have completed the final project, you have the option to record a well-rehearsed presentation of 15-20 minutes targeting local government and community leaders.  You may record the video presentation on your computer using Zoom.  The following link provides a tutorial for how you can record the presentation and share your screen using ZOOM (Link)[https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen].   After you record the video and save it, you can then upload it to [youtube](https://www.youtube.com/upload).  When uploading to youtube, you can select the unlisted option to keep the video from being found via search, rather it can only be viewed if you have the link.
 
 
 Submission: You will submit the .rmd file, the .html file, and the link to your youtube video to Canvas. 
